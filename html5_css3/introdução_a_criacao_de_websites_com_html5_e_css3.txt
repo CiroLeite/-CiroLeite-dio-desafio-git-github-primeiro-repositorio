@@ -1,0 +1,97 @@
+# Introdução ao HTML 5 e CSS 3
+
+## _HTML5_
+
+<.h1 class= "título">Título<./h1> 
+
+- **<.h1>** é a tag de título, o número define o tamanho, quanto maior o número, menor é o tamanho do título.
+- **class="titulo"**: É o atributo da tag, corresponde ao que a tag deve fazer
+- **Título** é o conteúdo da tag
+- **<./h1>** fecha a tag
+
+
+
+# Estrutura Básica
+
+- <.!DOCTYPE html>
+
+- <.html>
+
+- <.head>
+
+  - <.meta>
+
+  - <.title><./title>
+
+- <./head>
+- <.body>
+- <./body>
+- <./html>
+
+
+
+# Semântica
+
+- **<.section>** representa uma seção genérica de conteúdo, como uma lista de artigos.
+
+- **<.header>** cabeçalho da página, ou de parte da página, como uma section.
+
+- **<.article>** representa um conteúdo relevante dentro da página, como um artigo de um blog.
+
+- **<.aside>** representa um conteúdo relacionado ao conteúdo principal da página, como a biografia de um autor, links relacionados. Normalmente é representado por uma barra lateral.
+
+- **<.footer>** rodapé da página ou de parte da página.
+
+- **<.h1>-<.h6>** títulos.
+
+
+
+# Textos e Links
+
+**<,h1>**Título da página**<,/h1>**
+
+**<,h2>**Título da seção**<,/h2>**
+
+**<,h3>**Título de artigo**<,/h3>**
+
+**<,p>**Conteúdo do artigo**<,/p>** Representa um parágrafo, que suporta não somente texto, suporta também imagens, vídeos e vários outros elementos.
+
+**<,a>**Link**<,/a>** "Âncora, interliga vários conteúdos na web"
+
+**<,a href="**linkedin.com/in/ciro-de-melo-leite-970299242**">**LinkedIn**<,/a>** Hiperlink para onde a âncora aponta
+
+**<,a href="**mailto:ciromleite@gmail.com**">**E-mail**<,/a>**
+
+**<,a target="_blank">**Link**<,/a>** Como esse link vai ser aberto em uma nova aba.
+
+
+
+# Imagens
+
+**<,img> **
+
+**<,img src="**img/avatar.jpg**"> **Guarda o caminho da imagem (obrigatório)
+
+**<,img alt="**Foto de Ciro de Melo Leite**">**  Mostra a descrição da tela quando ela não é carregada.
+
+
+
+# Listas
+
+- **<,ul>** Uma lista onde a ordem dos itens não é importante (unordered list, lista desordenada)
+
+  ​		Item 1
+
+  ​		Item 2
+
+- **<,ol>** Lista onde a ordem dos itens é importante, representados por números, letras ou algarismos romanos (ordered list, lista ordenada
+  1. Item 1
+  2. Item 2
+  3. item 3
+
+- **<,li>** É um item dessa lista.
+
+  
+
+## _CSS3_
+
